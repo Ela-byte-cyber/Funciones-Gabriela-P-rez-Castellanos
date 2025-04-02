@@ -3,13 +3,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Project/Maven2/JavaApp/src/main/java/${packagePath}/${mainClassName}.java to edit this template
  */
 
-package com.mycompany.funcionangieegalvisygabriellaperez;
+package com.mycompany.funciongabrielaperez;
 
 /**
  *
  * @author Estudiantes
  */
-public class FuncionAngieeGalvisYGabriellaPerez {
+public class FuncionGabrielaPerez {
 
     public static void main(String[] args) {
         int resultado;
